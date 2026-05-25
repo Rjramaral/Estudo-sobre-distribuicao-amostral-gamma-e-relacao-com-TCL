@@ -1,0 +1,2 @@
+# Estudo sobre distribuição amostral
+
